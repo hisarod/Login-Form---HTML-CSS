@@ -6,3 +6,4 @@ Este projeto é um formulário de login simples, criado com HTML5 e CSS3. Ele fo
 
 - **Campos de entrada**: email e senha.
 - **Botões estilizados**: botões customizados com CSS para enviar o formulário.
+- **Flexbox**: usado para organizar o layout de forma eficiente e responsiva.
